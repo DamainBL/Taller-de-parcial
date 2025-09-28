@@ -4,9 +4,9 @@ Este repositorio contiene el taller resuelto del parcial, diseñado como materia
 
 ## Contenido
 
-📄 pre_taller_poo_resuelto.pdf: Documento en formato PDF con 19 preguntas resueltas.
+📄 `taller python.pdf`: Documento en formato PDF con 19 preguntas resueltas.
 
-🧾 pregunta_20_codigo.txt: Archivo de texto que contiene el código correspondiente a la pregunta 20.
+🧾 `contador(punto20).txt`: Archivo de texto que contiene el código correspondiente a la pregunta 20.
 
 Temas cubiertos
 
