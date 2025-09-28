@@ -1,8 +1,8 @@
-#Taller Parcial
+### Taller Parcial
 
 Este repositorio contiene el taller resuelto del parcial, diseñado como material de estudio previo de clases en python y mas importante los modificadores de acceso
 
-#Contenido
+## Contenido
 
 📄 pre_taller_poo_resuelto.pdf: Documento en formato PDF con 19 preguntas resueltas.
 
