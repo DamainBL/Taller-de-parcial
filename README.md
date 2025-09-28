@@ -1,6 +1,6 @@
 # Taller Parcial
 
-Este repositorio contiene el taller resuelto del parcial, diseñado como material de estudio previo de clases en python y mas importante los modificadores de acceso
+Este repositorio contiene el taller parcial resuelto, diseñado como material de estudio de clases en python y mas importante los modificadores de acceso
 
 ## Contenido
 
