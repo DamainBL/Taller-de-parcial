@@ -8,3 +8,11 @@ Este repositorio contiene el taller parcial resuelto, diseñado como material de
 
 🧾 `contador(punto20).txt`: Archivo de texto que contiene el código correspondiente a la pregunta 20.
 
+## repuestas
+
+
+# repuestas
+
+
+
+
