@@ -11,7 +11,7 @@ Este repositorio contiene el taller parcial resuelto, diseñado como material de
 ## repuestas
 
 
-# repuestas
+### repuestas
 
 
 
